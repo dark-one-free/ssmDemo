@@ -1,5 +1,6 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <body>
-<h2>Hello World!</h2>
+<a href="findAll">查看所有用户</a>
 </body>
 </html>
